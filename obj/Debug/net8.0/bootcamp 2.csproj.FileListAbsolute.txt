@@ -12,3 +12,4 @@ C:\Users\cowye\Desktop\bootcamp 2\obj\Debug\net8.0\bootcamp 2.pdb
 C:\Users\cowye\Desktop\bootcamp 2\obj\Debug\net8.0\bootcamp 2.genruntimeconfig.cache
 C:\Users\cowye\Desktop\bootcamp 2\obj\Debug\net8.0\ref\bootcamp 2.dll
 C:\Users\cowye\Desktop\bootcamp 2\obj\Debug\net8.0\refint\bootcamp 2.dll
+C:\Users\cowye\Desktop\bootcamp 2\obj\Debug\net8.0\bootcamp 2.sourcelink.json
